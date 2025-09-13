@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita-kukreja&label=Profile%20views&color=0e75b6&style=flat" alt="arpita-kukreja" /> </p>
 
-- 🔭 I’m currently working on **QuizAi**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+- 🔭 I’m currently working on **QuizAi**<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 🌱 I’m currently learning **machine learning frameworks**
 
