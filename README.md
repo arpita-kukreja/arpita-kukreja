@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpita Kukreja</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita-kukreja&label=Profile%20views&color=0e75b6&style=flat" alt="arpita-kukreja" /> </p>
 
@@ -13,6 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/133Rkbg6w91UoAa3qvtu4GQY1yc5OCVSV/view?usp=drivesdk](https://drive.google.com/file/d/133Rkbg6w91UoAa3qvtu4GQY1yc5OCVSV/view?usp=drivesdk)
 
+<img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arpita-kukreja-6416a4289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpita-kukreja-6416a4289" height="30" width="40" /></a>
