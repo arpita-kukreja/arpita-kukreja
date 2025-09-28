@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita-kukreja&show_icons=true&locale=en" alt="arpita-kukreja" /></p>
 
-## Certification Badges 🪶
+## CodeChef Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
 <!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" /> -->
