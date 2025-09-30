@@ -31,10 +31,12 @@
 
 ## CodeChef Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
+<!-- <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au"> -->
+<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/blob/main/Assets/CodeChefBadge%20(4).png width="100px" height="100px" />
 <!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" /> -->
 <a href="#">
 <!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" /> -->
+  <img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(4).png width="115px" height="108px" />
 <a href="#">
 <!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" /> -->
 <a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
