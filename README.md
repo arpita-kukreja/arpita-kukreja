@@ -45,4 +45,6 @@
 <a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
 <!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" /> -->
 </div>
+
+  ## Certification Badges 🪶
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/output/github-contribution-grid-snake.svg" />
