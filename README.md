@@ -40,6 +40,7 @@
 <a href="#">
 <!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" /> -->
 <a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
+<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets//CodeChefBadge%20(4).png" width="150px" height="160px" />
 <img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(3).png" width="150px" height="160px" /> 
 <img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(4).png" width="150px" height="160px" /> 
 <a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
