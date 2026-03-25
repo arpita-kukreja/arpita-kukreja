@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **machine learning frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arpita-kukreja/Portfolio-arpita](https://github.com/arpita-kukreja/Portfolio-arpita)
+- 👨‍💻 All of my projects are available at [https://portfolio-chi-pink-59.vercel.app/](https://portfolio-chi-pink-59.vercel.app/)
 
 - 📫 How to reach me **arpitakukreja18@gmail.com**
 
