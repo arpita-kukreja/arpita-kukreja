@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arpitakukreja18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tv_XjN1Rv-mRJDzJNAlLVrKE9CiQh4AO/view?usp=sharing](https://drive.google.com/file/d/1tv_XjN1Rv-mRJDzJNAlLVrKE9CiQh4AO/view?usp=sharing)
 
 <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
 <h3 align="left">Connect with me:</h3>
