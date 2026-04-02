@@ -1,66 +1,221 @@
-<h1 align="center">Hi 👋, I'm Arpita Kukreja</h1>
-<h3 align="center">A passionate frontend developer</h3>  
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita-kukreja&label=Profile%20views&color=0e75b6&style=flat" alt="arpita-kukreja" /> </p>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=200&section=header&text=Arpita%20Kukreja&fontSize=50&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" />
 
-- 🔭 I’m currently working on **QuizAi**<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+</div>
 
-- 🌱 I’m currently learning **machine learning frameworks**
+<!-- Bubble Letter Name -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+intelligent+web+experiences+%F0%9F%8C%90;AI%2FML+Engineer+%2B+Full+Stack+Developer+%F0%9F%A4%96;SIH+2025+%26+2024+Finalist+%7C+GATE+2025+Qualified+%F0%9F%8F%86;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-chi-pink-59.vercel.app/](https://portfolio-chi-pink-59.vercel.app/)
+<br/>
 
-- 📫 How to reach me **arpitakukreja18@gmail.com**
+<!-- Bubble Name Badges -->
+<div align="center">
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tv_XjN1Rv-mRJDzJNAlLVrKE9CiQh4AO/view?usp=sharing](https://drive.google.com/file/d/1tv_XjN1Rv-mRJDzJNAlLVrKE9CiQh4AO/view?usp=sharing)
+![A](https://img.shields.io/badge/%20A%20-6C63FF?style=for-the-badge&labelColor=6C63FF&color=6C63FF)
+![R](https://img.shields.io/badge/%20R%20-7B72FF?style=for-the-badge&labelColor=7B72FF&color=7B72FF)
+![P](https://img.shields.io/badge/%20P%20-8A82FF?style=for-the-badge&labelColor=8A82FF&color=8A82FF)
+![I](https://img.shields.io/badge/%20I%20-9A92FF?style=for-the-badge&labelColor=9A92FF&color=9A92FF)
+![T](https://img.shields.io/badge/%20T%20-AAA2FF?style=for-the-badge&labelColor=AAA2FF&color=AAA2FF)
+![A](https://img.shields.io/badge/%20A%20-BAB2FF?style=for-the-badge&labelColor=BAB2FF&color=BAB2FF)
+&nbsp;&nbsp;
+![K](https://img.shields.io/badge/%20K%20-C9C3FF?style=for-the-badge&labelColor=C9C3FF&color=C9C3FF)
+![U](https://img.shields.io/badge/%20U%20-D9D3FF?style=for-the-badge&labelColor=D9D3FF&color=D9D3FF)
+![K](https://img.shields.io/badge/%20K%20-C4BBFF?style=for-the-badge&labelColor=C4BBFF&color=C4BBFF)
+![R](https://img.shields.io/badge/%20R%20-B4ABFF?style=for-the-badge&labelColor=B4ABFF&color=B4ABFF)
+![E](https://img.shields.io/badge/%20E%20-A49BFF?style=for-the-badge&labelColor=A49BFF&color=A49BFF)
+![J](https://img.shields.io/badge/%20J%20-948BFF?style=for-the-badge&labelColor=948BFF&color=948BFF)
+![A](https://img.shields.io/badge/%20A%20-847BFF?style=for-the-badge&labelColor=847BFF&color=847BFF)
 
-<img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arpita-kukreja-6416a4289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpita-kukreja-6416a4289" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arpita kukreja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpita kukreja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arpitakukreja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpitakukreja18" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@arpitakukreja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@arpitakukreja18" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-kukreja&show_icons=true&locale=en&layout=compact" alt="arpita-kukreja" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita-kukreja&show_icons=true&locale=en" alt="arpita-kukreja" /></p>
+<img align="right" src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/illustration.png" width="260px" />
 
-## CodeChef Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<!-- <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au"> -->
-<!-- <img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/blob/main/Assets/CodeChefBadge%20(4).png width="100px" height="100px" /> -->
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" /> -->
-<a href="#">
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" /> -->
-  <!-- <img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(4).png width="115px" height="108px" /> -->
-<a href="#">
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" /> -->
+```yaml
+name     : Arpita Kukreja
+role     : Full Stack Developer | AI/ML Engineer
+college  : Dronacharya College of Engineering (CGPA: 9.04)
+working  : CodeLens
+learning : LLMs · RAG · AI Agents
+status   : Open to Internships & Opportunities 🚀
+achieve  : SIH Finalist · GATE 2025 · NPTEL Top 1%
+```
+
+- 🔭 Currently building **[CodeLens](https://github.com/arpita-kukreja)** 
+- 💼 All projects at **[my portfolio](https://github.com/arpita-kukreja)**
+- 📄 **[Resume](https://drive.google.com/file/d/1tv_XjN1Rv-mRJDzJNAlLVrKE9CiQh4AO/view?usp=sharing)** | 📫 **arpitakukreja18@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-kukreja-6416a4289)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitakukreja18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpita-kukreja)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Programming Languages
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,js,r&perline=8)](https://skillicons.dev)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+### 🌐 Web Development
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,figma&perline=8)](https://skillicons.dev)
+
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Data Science & Analytics
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&perline=8)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
+
+---
+
+### 🗄️ Databases
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+### ⚙️ Developer Tools & Platforms
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&perline=8)](https://skillicons.dev)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/arpitakukreja18)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ample_tomb_97)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/arpita-kukreja)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/arpitakukreja18)
+
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arpita-kukreja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-kukreja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arpita-kukreja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
+
+## 🎖️ Certifications & Badges
+
+<div align="center">
+
+### CodeChef
 <a href="https://www.codechef.com/users/ample_tomb_97">
+<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(3).png" width="120px" title="CodeChef Badge" />
+<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(4).png" width="120px" title="CodeChef Badge" />
+</a>
 
-<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(3).png" width="150px" height="160px" /> 
-<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(4).png" width="150px" height="160px" /> 
-<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" /> -->
-</div>
-
-  ## Certification Badges 🪶
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<!-- <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au"> -->
-<!-- <img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/blob/main/Assets/CodeChefBadge%20(4).png width="100px" height="100px" /> -->
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" /> -->
-<a href="#">
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" /> -->
-  <!-- <img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/CodeChefBadge%20(4).png width="115px" height="108px" /> -->
-<a href="#">
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" /> -->
+### IBM Certifications
 <a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/data-visualization-using-python.png" width="150px" height="160px" /> 
-<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/python-for-data-science.png" width="150px" height="160px" /> 
-<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
-<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" /> -->
+<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/data-visualization-using-python.png" width="120px" title="Data Visualization Using Python – IBM" />
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/main/Assets/python-for-data-science.png" width="120px" title="Python for Data Science – IBM" />
+</a>
+
 </div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arpita-kukreja/arpita-kukreja/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Arpita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpita-kukreja&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=arpita-kukreja&label=Profile%20Views&color=6C63FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/arpita-kukreja?label=Followers&style=flat-square&color=6C63FF)](https://github.com/arpita-kukreja)
+
+### ✨ *"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=100&section=footer" />
+
+</div>
