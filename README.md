@@ -1,4 +1,10 @@
 <div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=200&section=header&text=Arpita%20Kukreja&fontSize=50&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" />
