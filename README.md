@@ -59,7 +59,7 @@ status   : Open to Internships & Opportunities 🚀
 achieve  : SIH Finalist · GATE 2025 · NPTEL Top 1%
 ```
 
-- 🔭 Currently building **[CodeLens](https://github.com/arpita-kukreja)** 
+- 🔭 Currently building **[BrainRoom](https://github.com/arpita-kukreja)** 
 - 💼 All projects at **[my portfolio](https://github.com/arpita-kukreja)**
 - 📄 **[Resume](https://drive.google.com/file/d/1tv_XjN1Rv-mRJDzJNAlLVrKE9CiQh4AO/view?usp=sharing)** | 📫 **arpitakukreja18@gmail.com**
 
